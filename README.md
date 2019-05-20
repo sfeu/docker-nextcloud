@@ -1,9 +1,9 @@
-## wonderfall/nextcloud
+## suprovsky/nextcloud
 
 
-[![](https://images.microbadger.com/badges/version/wonderfall/nextcloud.svg)](http://microbadger.com/images/wonderfall/nextcloud "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/wonderfall/nextcloud.svg)](http://microbadger.com/images/wonderfall/nextcloud "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/suprovsky/nextcloud.svg)](http://microbadger.com/images/suprovsky/nextcloud "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/suprovsky/nextcloud.svg)](http://microbadger.com/images/suprovsky/nextcloud "Get your own image badge on microbadger.com")
 
-**This image was made for my own use and I have no intention to make this official. Support won't be regular so if there's an update, or a fix, you can open a pull request. Any contribution is welcome, but please be aware I'm very busy currently. Before opening an issue, please check if there's already one related. Also please use Github instead of Docker Hub, otherwise I won't see your comments. Thanks.**
+**This image is a fork from wonderfall/nextcloud. It is made by updating purposes only since wonderfall is not maintaining his repo anymore.**
 
 ### Features
 - Based on Alpine Linux.
